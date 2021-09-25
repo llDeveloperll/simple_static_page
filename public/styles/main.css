@@ -1,6 +1,8 @@
 html, body {
-    background-image: url("../files/images/Background_18.jpg");
-    background-size:100% 100%;
+    background-image: url("../images/minimalistic-rocket_00245071.jpg");
+    background-size: cover;
+    background-position-y: center;
+    background-position-y: 25%;
     margin: 0;
     padding: 0;
 }
@@ -12,6 +14,6 @@ html, body {
 }
 
 .page-title {
-    color: rgb(15, 128, 204);
+    color: rgb(228, 228, 228);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
